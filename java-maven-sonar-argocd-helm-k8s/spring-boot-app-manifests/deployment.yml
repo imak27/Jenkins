@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: abhishekf5/ultimate-cicd:replaceImageTag
+        image: angad/cicd:replaceI  mageTag
         ports:
         - containerPort: 8080
